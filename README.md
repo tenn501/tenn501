@@ -3,7 +3,9 @@
 
 <div id="header" align="center">
   <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/lillian-tenn/" alt="LinkedIn Badge"/>
+    <a href="https://www.linkedin.com/in/lillian-tenn/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
 </div>
 </div>
 
