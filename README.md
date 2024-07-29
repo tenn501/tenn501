@@ -1,4 +1,11 @@
-## Hi there 👋
+
+## Hi there! I'm Lillian 👋
+
+<div id="header" align="center">
+  <div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/lillian-tenn/" alt="LinkedIn Badge"/>
+</div>
+</div>
 
 <!--
 **tenn501/tenn501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
