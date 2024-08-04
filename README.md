@@ -28,7 +28,7 @@ I'm a full-stack software engineer. When I'm not solving problems through coding
   <a href="https://mongodb.com/" target="_blank"><img src="mongo.png" width="30" alt="mongo" /></a>
   <a href="https://graphql.org/" target="_blank"><img src="graphql.png" width="30" alt="graphql" /></a>
   <a href="https://webpack.js.org/" target="_blank"><img src="webpack.png" width="30" alt="webpack" /></a>
-  <a href="https://vite.js.dev/" target="_blank"><img src="vite.png" width="30" alt="vite" /></a>
+  <a href="https://vitejs.dev/" target="_blank"><img src="vite.png" width="30" alt="vite" /></a>
   <a href="https://jestjs.io/" target="_blank"><img src="jest.png" width="30" alt="jest" /></a>
   <a href="https://docker.com/" target="_blank"><img src="docker.png" width="30" alt="docker" /></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="aws.png" width="30" alt="aws" /></a>
