@@ -9,7 +9,7 @@
 <div id="icons" align="center">
   <h3>Tech Stack</h3>
   <a href="https://www.javascript.com/" target="_blank">
-    <img src="js.png" width="30" style="margin:10px" alt="js" />
+    <img src="js.png" width="30" style="margin:"10px" alt="js" />
   </a>
   <a href="hhttps://www.typescriptlang.org/" target="_blank">
     <img src="ts.png" width="30" alt="ts" />
