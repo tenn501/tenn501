@@ -6,8 +6,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<div id="icons" align="center">
-  <h3>Tech Stack</h3>
+<hr>
+<h4>About Me</h4>
+I'm a full-stack software engineer. When I'm not solving problems through coding, I absolutely love to hit the trails and chase breathtaking landscapes. And when I’m feeling more homey, you can find me in the kitchen, baking up something delicious - it’s my go-to for a little creative fun and some tasty treats!
+<hr>
+<h4>Languages and Tools</h4>
+<div id="icons">
   <a href="https://www.javascript.com/" target="_blank"><img src="js.png" width="30" alt="js" /></a>
   <a href="hhttps://www.typescriptlang.org/" target="_blank"><img src="ts.png" width="30" alt="ts" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="python.png" width="30" alt="python" /></a>
@@ -28,8 +32,12 @@
   <a href="https://jestjs.io/" target="_blank"><img src="jest.png" width="30" alt="jest" /></a>
   <a href="https://docker.com/" target="_blank"><img src="docker.png" width="30" alt="docker" /></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="aws.png" width="30" alt="aws" /></a>
-  
 </div>
+<hr>
+<!-- <h4>GitHub Stats</h4>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tenn501&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenn501&layout=compact&theme=buefy) -->
 <!--
 **tenn501/tenn501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,7 +48,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
