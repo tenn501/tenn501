@@ -33,7 +33,7 @@ I'm a full-stack software engineer. When I'm not solving problems through coding
   <a href="https://docker.com/" target="_blank"><img src="docker.png" width="30" alt="docker" /></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="aws.png" width="30" alt="aws" /></a>
 </div>
-<hr>
+<!-- <hr> -->
 <!-- <h4>GitHub Stats</h4>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tenn501&theme=buefy)
