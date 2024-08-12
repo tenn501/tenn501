@@ -8,7 +8,8 @@
 </div>
 <hr>
 <h4>About Me</h4>
-I'm a full-stack software engineer. When I'm not solving problems through coding, I absolutely love to hit the trails and chase breathtaking landscapes. And when I’m feeling more homey, you can find me in the kitchen, baking up something delicious - it’s my go-to for a little creative fun and some tasty treats!
+<p>I’m a software engineer and creator with a knack for building innovative web applications and component libraries. My journey in tech has been fueled by a love for solving complex problems and delivering high-quality, accessible solutions. Whether it’s crafting scalable frontend architectures, optimizing state management, or building robust backend systems, I’m always eager to explore new technologies and refine my skills.</p>
+<p>I’m always open to collaboration and love sharing knowledge, so feel free to reach out or explore my repositories to see what I’m up to!</p>
 <hr>
 <h4>Languages and Tools</h4>
 <div id="icons">
